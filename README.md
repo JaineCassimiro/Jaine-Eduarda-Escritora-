@@ -27,8 +27,8 @@ Este site foi desenvolvido com HTML, CSS e JavaScript puro, com uma estética su
 
 ## 🚀 Como acessar
 
-Após publicar com GitHub Pages, seu blog estará acessível em:  
-`https://seuusuario.github.io/jaineeduarda-blog/`
+  
+`https://jainecassimiro.github.io/Jaine-Eduarda-Escritora-/
 
 ## 🙌 Contribuição
 
