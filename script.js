@@ -7,3 +7,4 @@ window.addEventListener("scroll", () => { if (window.scrollY > 300) { backToTop.
 backToTop.addEventListener("click", () => { window.scrollTo({ top: 0, behavior: "smooth" }); });
 
 // Animação ao passar mouse nos ícones sociais const socialIcons = document.querySelectorAll(".social-icons a img"); socialIcons.forEach(icon => { icon.addEventListener("mouseenter", () => { icon.style.transform = "scale(1.2)"; icon.style.transition = "transform 0.3s ease"; }); icon.addEventListener("mouseleave", () => { icon.style.transform = "scale(1)"; }); });
+
